@@ -1,4 +1,9 @@
 
-.p{
+.name_pers{
+    width: 100%;
+    bottom: 10px;
+}
+
+.main_text{
     width: 100%;
 }
