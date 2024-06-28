@@ -6,7 +6,9 @@
 }
 
 .main_text{
-    width: 300%;
+    width: 350%;
+    position: relative;
+    left: 15px;
 }
 
 .row{
