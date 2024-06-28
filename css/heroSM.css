@@ -8,3 +8,8 @@
 .main_text{
     width: 100%;
 }
+
+.row{
+    position: relative;
+    right: 15px;
+}
