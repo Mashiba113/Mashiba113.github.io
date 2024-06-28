@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Kaisei+Opti&display=swap');
 .name_pers{
+    text-align: center;
     width: 200%;
     position: relative;
     bottom: 21px;
-    right: 15px;
+    
     font-family: "Kaisei Opti", serif;
 }
 
