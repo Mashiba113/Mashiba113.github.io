@@ -18,5 +18,6 @@
 .row{
     position: relative;
     right: 15px;
-    height: 65vh;
+    bottom: 100px;
+    
 }
